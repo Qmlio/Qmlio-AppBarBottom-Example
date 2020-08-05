@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>controls/BarButton.qml</file>
+        <file>controls/Fab.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MainContent.qml</file>
+        <file>headers/MainListHeader.qml</file>
+        <file>delegates/MainListDelegate.qml</file>
+    </qresource>
+</RCC>
